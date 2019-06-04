@@ -1,4 +1,4 @@
-*Source for searching about JavaScript, HTML and Server Side*
+*Source for searching about JavaScript, HTML, HTTP and Server Side*
 ------ --- --------- ----- ----------- ---- --- ------ ----
 
 https://developer.mozilla.org/en-US/docs/Learn/JavaScript
@@ -7,7 +7,7 @@ https://developer.mozilla.org/en-US/docs/Learn/Server-side
 
 https://developer.mozilla.org/en-US/docs/Learn/Server-side/First_steps
 
-
+https://developer.mozilla.org/en-US/docs/Web/HTTP
 
 *Express framework (javascript/node.js)*
 ------- --------- --------------------
