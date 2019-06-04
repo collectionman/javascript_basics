@@ -9,6 +9,8 @@ https://developer.mozilla.org/en-US/docs/Learn/Server-side/First_steps
 
 https://developer.mozilla.org/en-US/docs/Web/HTTP
 
+https://dev.opera.com/articles/http-lets-get-it-on/
+
 *Express framework (javascript/node.js)*
 ------- --------- --------------------
 
